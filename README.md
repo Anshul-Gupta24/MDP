@@ -3,6 +3,6 @@
 #### Python implementation of a Markov Decision Process as given in Barto and Sutton Chapter 3
 
 #### Running the code:
-#### >> python mdp.py
+#### ```>> python mdp.py```
 
 #### Output is the Optimal Value function
